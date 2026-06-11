@@ -15,3 +15,8 @@
  * GraphQL API
  * ...
  */
+
+/**
+    Traditional FD => BSSR(Admin) => EJS
+    Modern DF      => SPA(Users' app) => React
+ */
